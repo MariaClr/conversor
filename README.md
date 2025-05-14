@@ -5,21 +5,7 @@ Utiliza Java 11+, HttpClient e [Gson](https://github.com/google/gson) para seria
 
 ---
 
-## 📋 Sumário
 
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Instalação](#-instalação)
-- [Configuração](#-configuração)
-- [Como usar](#-como-usar)
-- [Arquitetura do código](#-arquitetura-do-código)
-    - [Classes principais](#classes-principais)
-    - [Método genérico de conversão](#método-genérico-de-conversão)
-- [Testes](#-testes)
-- [Melhorias futuras](#-melhorias-futuras)
-- [Licença](#-licença)
-
----
 
 ## 🚀 Funcionalidades
 
